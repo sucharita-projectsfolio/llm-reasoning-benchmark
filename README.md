@@ -1,2 +1,2 @@
-# llm-reasoning-benchmark
-Python scripts I built to test and break LLMs. Evaluates how well AI models handle complex reasoning and strict instructions.
+# Frontier LLM Reasoning Benchmark
+Programmatic evaluation harness in Python to benchmark Large Language Models against multi-step logical reasoning challenges and strict negative instruction constraints.
