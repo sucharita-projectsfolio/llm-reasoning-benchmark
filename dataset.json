@@ -1,0 +1,16 @@
+[
+  {
+    "id": "test_001",
+    "category": "logical_reasoning",
+    "prompt": "A chemical reaction has a half-life of 10 minutes. What fraction of the reactant remains after 30 minutes? Reply ONLY with the simplified fraction.",
+    "expected": "1/8",
+    "rule": "exact_match"
+  },
+  {
+    "id": "test_002",
+    "category": "instruction_following",
+    "prompt": "Write a Python function named `secure_hash` that takes a string and returns a basic hash. Do not include any explanations or code comments.",
+    "expected": "def secure_hash",
+    "rule": "must_contain_and_no_comments"
+  }
+]
